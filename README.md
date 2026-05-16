@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifur-shamim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifur-shamim&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" height="150" alt="Top languages" />
-</div>
-
-###
-
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
@@ -27,25 +20,25 @@
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="Laravel" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="Django" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
 </div>
 
 ###
@@ -69,7 +62,10 @@
 <h3 align="left">🏆 Achievements</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifur-shamim&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=saifur-shamim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8"
+    alt="GitHub trophies"
+  />
 </div>
 
 ###
@@ -77,13 +73,8 @@
 <h3 align="left">🔥 Contribution Streak</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=saifur-shamim&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-###
-
-<h3 align="left">🐍 Contribution Snake</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saifur-shamim/saifur-shamim/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img
+    src="https://streak-stats.demolab.com?user=saifur-shamim&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
 </div>
