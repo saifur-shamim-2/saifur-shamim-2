@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is MD Saifur Rahman Chowdhury and I'm a Full Stack Developer from Bangladesh</h2>
+<h2 align="left">Hi! My name is MD Saifur Rahman Chowdhury, and I'm a Full Stack Developer from Bangladesh</h2>
 
 ###
 
@@ -9,19 +9,19 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+
 
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  🎓 Computer Science and Engineering Graduate <br>
   💼 Full Stack Developer <br>
+  🎓 Computer Science and Engineering Graduate <br>
   🔬 Researcher in Decentralized Identity Systems (SSI & Hyperledger Indy) <br>
   🏆 Competitive Programmer <br>
   🚀 Tech Enthusiast and Lifelong Learner <br>
-  🌱 Currently learning Django and Machine Learning <br>
+  🌱 Currently learning Artificial Intelligence and Machine Learning <br>
   💬 Ask me about Competitive Programming, Data Structures, and Algorithms <br>
   📫 Reach me at: <strong>saifurshamim150@gmail.com</strong>
 </p>
